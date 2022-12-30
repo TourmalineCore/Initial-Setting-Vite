@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-shadow */
 import { useState } from 'react';
-import reactLogo from '../assets/react.svg';
+import reactLogo from '../../assets/react.svg';
 import './Home.scss';
 
 function Home() {

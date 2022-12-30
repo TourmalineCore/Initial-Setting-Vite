@@ -1,5 +1,5 @@
 import { HashRouter, Route, Routes } from 'react-router-dom';
-import Home from './pages/Home';
+import Home from './pages/Home/Home';
 
 export function App() {
   return (
